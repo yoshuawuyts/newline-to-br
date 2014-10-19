@@ -1,0 +1,29 @@
+{
+  "name": "newline-to-br",
+  "version": "1.0.0",
+  "description": "Format newlines to <br> tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "yoshuawuyts/newline-to-br",
+  "keywords": [
+    "newlines",
+    "responsive",
+    "br"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.3.2",
+    "make-lint": "^1.0.1",
+    "mocha": "^1.21.5",
+    "should": "^4.1.0"
+  },
+  "files": [
+    "lib",
+    "LICENSE",
+    "index.js",
+    "HISTORY.md"
+  ]
+}
