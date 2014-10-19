@@ -40,6 +40,7 @@ gives us finer-grained control over our text.
 
 ## See also
 - [breaking-text by max savin][br-t]
+- [demo](http://codepen.io/yoshuawuyts/pen/mdHBs)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
@@ -54,3 +55,4 @@ gives us finer-grained control over our text.
 [downloads-url]: https://npmjs.org/package/newline-to-br
 
 [br-t]: http://maxsavin.com/posts/breaking-text.php
+[demo]: http://codepen.io/yoshuawuyts/pen/mdHBs
